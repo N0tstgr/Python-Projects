@@ -42,4 +42,4 @@ while True:
         break
 
         #printing the  goodbye message
-print("\n Thanks for using the fake news Headline gEnerator . Have a fun day")
+print("\n Thanks for using the fake news Headline gEnerator . Have a fun dssay")
